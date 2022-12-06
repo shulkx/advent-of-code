@@ -1,5 +1,7 @@
 # Advent-of-Code
 
+Trying to get familiar with .Net 6 and new code style.
+
 ## Progression
 
 | YEAR                     | STARS     |
