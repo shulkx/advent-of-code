@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-## Progression and Navigation ![28%](https://progress-bar.dev/28)
+## Progression and Navigation ![32%](https://progress-bar.dev/32)
 
 | DAY                                                          | STARS | C#                            | Solution Description |
 | ------------------------------------------------------------ | ----- | ----------------------------- | -------------------- |
@@ -11,7 +11,7 @@
 | [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5) | ⭐️⭐️ | [Solution](./day05/Program.cs) |                      |
 | [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6) | ⭐️⭐️ | [Solution](./day06/Program.cs) |                      |
 | [Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7) | ⭐️⭐️ | [Solution](./day07/Program.cs) |                      |
-| [Day 8](https://adventofcode.com/2022/day/8)                |       |                               |                      |
+| [Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8) | ⭐️⭐️ | [Solution](./day08/Program.cs) |                      |
 | [Day 9](https://adventofcode.com/2022/day/9)                |       |                               |                      |
 | [Day 10](https://adventofcode.com/2022/day/10)              |       |                               |                      |
 | [Day 11](https://adventofcode.com/2022/day/11)              |       |                               |                      |
