@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-## Progression and Navigation ![36%](https://progress-bar.dev/36)
+## Progression and Navigation ![40%](https://progress-bar.dev/40)
 
 | DAY                                                          | STARS | C#                            | Solution Description |
 | ------------------------------------------------------------ | ----- | ----------------------------- | -------------------- |
@@ -13,7 +13,7 @@
 | [Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7) | ⭐️⭐️ | [Solution](./day07/Program.cs) |                      |
 | [Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8) | ⭐️⭐️ | [Solution](./day08/Program.cs) |                      |
 | [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9) | ⭐️⭐️ | [Solution](./day09/Program.cs) |                      |
-| [Day 10](https://adventofcode.com/2022/day/10)              |       |                               |                      |
+| [Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | ⭐️⭐️ | [Solution](./day10/Program.cs) |                      |
 | [Day 11](https://adventofcode.com/2022/day/11)              |       |                               |                      |
 | [Day 12](https://adventofcode.com/2022/day/12)              |       |                               |                      |
 | [Day 13](https://adventofcode.com/2022/day/13)              |       |                               |                      |
