@@ -15,7 +15,7 @@
 | [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9) | ⭐️⭐️ | [Solution](./day09/Program.cs) |                      |
 | [Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | ⭐️⭐️ | [Solution](./day10/Program.cs) |                      |
 | [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11) | ⭐️⭐️ | [Solution](./day11/Program.cs) |                      |
-| [Day 12](https://adventofcode.com/2022/day/12)              |       |                               |                      |
+| [Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | ⭐️⭐️ | [Solution](./day12/Program.cs) |                      |
 | [Day 13](https://adventofcode.com/2022/day/13)              |       |                               |                      |
 | [Day 14](https://adventofcode.com/2022/day/14)              |       |                               |                      |
 | [Day 15](https://adventofcode.com/2022/day/15)              |       |                               |                      |
