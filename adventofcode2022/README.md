@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-## Progression and Navigation ![44%](https://progress-bar.dev/44)
+## Progression and Navigation ![52%](https://progress-bar.dev/52)
 
 | DAY                                                          | STARS | C#                            | Solution Description |
 | ------------------------------------------------------------ | ----- | ----------------------------- | -------------------- |
