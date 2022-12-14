@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-## Progression and Navigation ![52%](https://progress-bar.dev/52)
+## Progression and Navigation ![56%](https://progress-bar.dev/56)
 
 | DAY                                                          | STARS | C#                            | Solution Description |
 | ------------------------------------------------------------ | ----- | ----------------------------- | -------------------- |
@@ -17,7 +17,7 @@
 | [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11) | ⭐️⭐️ | [Solution](./day11/Program.cs) |                      |
 | [Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | ⭐️⭐️ | [Solution](./day12/Program.cs) |                      |
 | [Day 13: Distress Signal](https://adventofcode.com/2022/day/13) | ⭐️⭐️ | [Solution](./day13/Program.cs) |                      |
-| [Day 14](https://adventofcode.com/2022/day/14)              |       |                               |                      |
+| [Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14) | ⭐️⭐️ | [Solution](./day14/Program.cs) |                      |
 | [Day 15](https://adventofcode.com/2022/day/15)              |       |                               |                      |
 | [Day 16](https://adventofcode.com/2022/day/16)              |       |                               |                      |
 | [Day 17](https://adventofcode.com/2022/day/17)              |       |                               |                      |
