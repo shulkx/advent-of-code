@@ -52,8 +52,8 @@ foreach (var aLocation in aLocs)
     }
 }
 
-Console.WriteLine(steps.First());
-Console.WriteLine(steps.Min());
+Console.WriteLine($"Day 12 Part 1: {steps.First()}");
+Console.WriteLine($"Day 12 Part 2: {steps.Min()}");
 
 
 // Parses the input and returns a grid of squares.
